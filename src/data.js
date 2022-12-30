@@ -5,21 +5,15 @@ const exercise = [
       category: 'bodyweight',
       experience: 'beginner',
       img: './images/situp.jpg',
-      desc: `Lay supine in a relaxed position with your knees up and hands across your chest.
-      Exhale and squeeze your abs as you curl your upper body off the floor.
-      Once your torso is perpendicular to the floor, slowly lower yourself back to the starting position.
-      Complete for the assigned number of repetitions. `,
+      desc: `1. Lay supine in a relaxed position with your knees up and hands across your chest.\n2. Exhale and squeeze your abs as you curl your upper body off the floor.\n3. Once your torso is perpendicular to the floor, slowly lower yourself back to the starting position.\n4. Complete for the assigned number of repetitions. `,
     },
     {
       id: 2,
       title: 'lying floor leg raise',
       category: 'bodyweight',
       experience: 'beginner',
-      img: './images/lyingleg.jpg',
-      desc: `Lay supine in a relaxed position with your legs straight and your hands underneath your low back for support.
-      Keep your legs straight and raise them towards your forehead while contracting your abdominals and exhaling.
-      Once your abs are fully contracted and your legs are slightly above parallel, slowly lower your legs back to the starting position.
-      Complete for the assigned number of repetitions. `,
+      img: './images/lyingleg2.jpg',
+      desc: `1. Lay supine in a relaxed position with your legs straight and your hands underneath your low back for support.\n2. Keep your legs straight and raise them towards your forehead while contracting your abdominals and exhaling.\n3. Once your abs are fully contracted and your legs are slightly above parallel, slowly lower your legs back to the starting position.\n4. Complete for the assigned number of repetitions. `,
     },
     {
       id: 3,
@@ -27,35 +21,23 @@ const exercise = [
       category: 'bodyweight',
       experience: 'beginner',
       img: './images/pushup.jpg',
-      desc: `Assume a quadruped position on the floor with your hands under your shoulders, toes tucked, and knees under hips.
-      Extend one leg at a time and assume a pushup position with the legs straight, elbows extended, and head in a neutral position looking at the floor.
-      Slowly descend to the floor by retracting the shoulder blades and unlocking the elbows.
-      Descend until the upper arms are parallel or your chest touches the floor.
-      Push back to the starting point by extending the elbows and driving your palms into the floor.
-      Repeat for the desired number of repetitions.`,
+      desc: `1. Assume a quadruped position on the floor with your hands under your shoulders, toes tucked, and knees under hips.\n2. Extend one leg at a time and assume a pushup position with the legs straight, elbows extended, and head in a neutral position looking at the floor.\n3. Slowly descend to the floor by retracting the shoulder blades and unlocking the elbows.\n4. Descend until the upper arms are parallel or your chest touches the floor.\n5. Push back to the starting point by extending the elbows and driving your palms into the floor.\n6. Repeat for the desired number of repetitions.`,
     },
     {
       id: 4,
       title: 'bicycle',
       category: 'bodyweight',
       experience: 'beginner',
-      img: './images/bicycle.jpg',
-      desc: `Lay supine in a relaxed position with your arms behind your head and legs straight.
-      Exhale as you raise one knee towards your face while driving the opposite elbow to the knee.
-      Once your abs are fully contracted, slowly lower yourself back to the starting position and repeat on the opposite side.
-      Complete for the assigned number of repetitions. `,
+      img: './images/bicycle2.jpg',
+      desc: `1. Lay supine in a relaxed position with your arms behind your head and legs straight.\n2. Exhale as you raise one knee towards your face while driving the opposite elbow to the knee.\n3. Once your abs are fully contracted, slowly lower yourself back to the starting position and repeat on the opposite side.\n4. Complete for the assigned number of repetitions. `,
     },
     {
       id: 5,
       title: 'dumbbell bench press',
       category: 'chest',
       experience: 'beginner',
-      img: './images/dumbbellbenchpress.jpg',
-      desc: `Pick up the dumbbells off the floor using a neutral grip (palms facing in). Position the ends of the dumbbells in your hip crease, and sit down on the bench.
-      To get into position, lay back and keep the weights close to your chest. Once you are in position, take a deep breath, and press the dumbbells to lockout at the top.
-      Slowly lower the dumbbells under control as far as comfortably possible (the handles should be about level with your chest).
-      Contract the chest and push the dumbbells back up to the starting position.
-      Repeat for the desired number of repetitions. `,
+      img: './images/dumbbellbenchpress2.jpg',
+      desc: `1. Pick up the dumbbells off the floor using a neutral grip (palms facing in). Position the ends of the dumbbells in your hip crease, and sit down on the bench.\n2. To get into position, lay back and keep the weights close to your chest. Once you are in position, take a deep breath, and press the dumbbells to lockout at the top.\n3. Slowly lower the dumbbells under control as far as comfortably possible (the handles should be about level with your chest).\n4. Contract the chest and push the dumbbells back up to the starting position.\n5. Repeat for the desired number of repetitions. `,
     },
     {
       id: 6,
@@ -63,23 +45,15 @@ const exercise = [
       category: 'back',
       experience: 'beginner',
       img: './images/seatedcablerow.jpg',
-      desc: `Set the appropriate weight on the weight stack and attach a close-grip bar or V-bar to the seated row machine.
-      Grasp the bar with a neutral grip (palms facing in).
-      Keeping your legs slightly bent and your back straight, pull the weight up slightly off the stack. You should be sitting straight upright with your shoulders back. This is the starting position.
-      Keeping your body in position, pull the handle into your stomach.
-      Pull your shoulder blades back, squeeze, pause, and then slowly lower the weight back to the starting position.
-      Repeat for desired reps.`,
+      desc: `1. Set the appropriate weight on the weight stack and attach a close-grip bar or V-bar to the seated row machine.\n2. Grasp the bar with a neutral grip (palms facing in).\n3. Keeping your legs slightly bent and your back straight, pull the weight up slightly off the stack. You should be sitting straight upright with your shoulders back. This is the starting position.\n4. Keeping your body in position, pull the handle into your stomach.\n5. Pull your shoulder blades back, squeeze, pause, and then slowly lower the weight back to the starting position.\n6. Repeat for desired reps.`,
     },
     {
       id: 7,
-      title: 'incline dumbell curl',
+      title: 'incline dumbbell curl',
       category: 'biceps',
       experience: 'beginner',
       img: './images/inclinedumbell.jpg',
-      desc: `Position an incline bench at roughly 55-65 degrees, select the desired weight from the rack, and sit upright with your back flat against the pad.
-      Using a supinated (palms up) grip, take a deep breath and curl both dumbbells towards your shoulders.
-      Once the biceps are fully shortened, slowly lower the weights back to the starting position.
-      Repeat for the desired number of repetitions. `,
+      desc: `1. Position an incline bench at roughly 55-65 degrees, select the desired weight from the rack, and sit upright with your back flat against the pad.\n2. Using a supinated (palms up) grip, take a deep breath and curl both dumbbells towards your shoulders.\n3. Once the biceps are fully shortened, slowly lower the weights back to the starting position.\n4. Repeat for the desired number of repetitions. `,
     },
     {
       id: 8,
@@ -87,11 +61,7 @@ const exercise = [
       category: 'tricep',
       experience: 'beginner',
       img: './images/ropetricep.jpg',
-      desc: `Attach a rope to a cable stack as high as possible and assume a standing position.
-      Grasp the rope with a neutral grip (palms facing in) and lean forward slightly by hinging at the hips.
-      Initiate the movement by extending the elbows and flexing the triceps.
-      Pull the rope downward until the elbows are almost locked out and then slowly lower under control back to the starting position.
-      Repeat for the desired number of repetitions. `,
+      desc: `1. Attach a rope to a cable stack as high as possible and assume a standing position.\n2. Grasp the rope with a neutral grip (palms facing in) and lean forward slightly by hinging at the hips.\n3. Initiate the movement by extending the elbows and flexing the triceps.\n4. Pull the rope downward until the elbows are almost locked out and then slowly lower under control back to the starting position.\n5. Repeat for the desired number of repetitions. `,
     },
     {
       id: 9,
@@ -99,10 +69,15 @@ const exercise = [
       category: 'legs',
       experience: 'beginner',
       img: './images/seatedlegcurl.jpg',
-      desc: `Select the desired weight, then adjust the pad so it rests comfortably above the back of the heels.
-      Tense up the hamstrings by taking the weight slightly off the stack. This is the starting position for the exercise.
-      Take a deep breath, squeeze the hamstrings, and curl the weight up as far as possible while keeping the spine neutral.
-      Slowly lower the weight back to the starting position and repeat for the desired number of repetitions.`,
+      desc: `1. Select the desired weight, then adjust the pad so it rests comfortably above the back of the heels.\n2. Tense up the hamstrings by taking the weight slightly off the stack. This is the starting position for the exercise.\n3. Take a deep breath, squeeze the hamstrings, and curl the weight up as far as possible while keeping the spine neutral.\n4. Slowly lower the weight back to the starting position and repeat for the desired number of repetitions.`,
+    },
+    {
+      id: 10,
+      title: 'barbell bench press',
+      category: 'chest',
+      experience: 'intermediate',
+      img: './images/barbellbenchpress.jpg',
+      desc: `1. Lie flat on a bench and set your hands just outside of shoulder width.\n2. Set your shoulder blades by pinching them together and driving them into the bench.\n3. Take a deep breath and allow your spotter to help you with the lift off in order to maintain tightness through your upper back.\n4. Let the weight settle and ensure your upper back remains tight after lift off.\n5. Inhale and allow the bar to descend slowly by unlocking the elbows.\n6. Lower the bar in a straight line to the base of the sternum (breastbone) and touch the chest.\n7. Push the bar back up in a straight line by pressing yourself into the bench, driving your feet into the floor for leg drive, and extending the elbows.\n8. Repeat for the desired number of repetitions.`,
     },
   ];
   export default exercise;
