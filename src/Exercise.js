@@ -5,7 +5,7 @@ const Exercise = ({items}) => {
   return ( 
   <div className="section-center">
     {items.map((exerciseItem)=> {
-        const {id,title,img,desc,experience} = exerciseItem;
+        const {id,title,img,desc,experience,vid} = exerciseItem;
         return (
         <article key={id} className="exercise-item">
             <img src={img} alt={title} className='photo'/>
@@ -15,6 +15,7 @@ const Exercise = ({items}) => {
                     <h4 className='experience'>{experience}</h4>
                 </header>
                 <p className='item-text'>{desc}</p>
+                <iframe width="560" height="315" src={vid} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
         </article>
     );

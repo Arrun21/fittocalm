@@ -185,6 +185,10 @@ Exercise
   background: #d4a373;
   color: var(--clr-white);
 }
+.filter-btn:focus {
+  background: #d4a373;
+  color: var(--clr-white);
+}
 .section-center {
   width: 90vw;
   margin: 0 auto;
