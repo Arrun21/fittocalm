@@ -15,6 +15,7 @@ const Exercise = ({items}) => {
                     <h4 className='experience'>{experience}</h4>
                 </header>
                 <p className='item-text'>{desc}</p>
+                <br></br>
                 <iframe width="410" height="315" src={vid} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
         </article>
