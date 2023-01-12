@@ -20,11 +20,12 @@ function App() {
   }
 
   return <main>
+    <div className='heading'>
+    <h2>Fit To Calm</h2>
+    </div>
     <section className='exercise section'>
     <div className='title'>
-    <h2>Fit To Calm</h2>
-    <div className='underline'></div>
-    <br></br>
+      <p className='welcometext'>Welcome to Fit To Calm, choose from a wide range of exercise to help better yourself improving your mental wellbeing and health</p>
       <h2>exercises</h2>
       <div className='underline'></div>
     </div>
