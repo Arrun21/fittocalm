@@ -21,7 +21,7 @@ function App() {
 
   return <main>
     <div className='heading'>
-    <h2>Fit To Calm</h2>
+    <img id='logo' src='./images/Healthylogo.png'  alt="logo image" />
     </div>
     <section className='exercise section'>
     <div className='title'>
