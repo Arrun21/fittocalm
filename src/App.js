@@ -23,7 +23,7 @@ function App() {
     <section className='exercise section'>
     <div className='title'>
     <img id='logo' src='./images/Healthylogo.png'  alt="logo image" />
-      <p className='welcometext'>Welcome to Fit To Calm, choose from a wide range of exercise to help better yourself improving your mental wellbeing and health</p>
+      <p className='welcometext'>Welcome to Fit To Calm, choose from a wide range of exercises to help better yourself improving your mental wellbeing and health</p>
       <h2>exercises</h2>
       <div className='underline'></div>
     </div>
