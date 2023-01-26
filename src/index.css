@@ -206,7 +206,10 @@ Exercise
   padding-top: 1rem;
   white-space: pre-wrap;
 }
-
+#video{
+  width:100%;
+  height:315px;
+}
 /*Mobile*/
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   .section-center{
