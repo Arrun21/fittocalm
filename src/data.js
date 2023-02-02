@@ -6,7 +6,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/situp.jpg',
       vid: 'https://www.youtube.com/embed/jDwoBqPH0jk',
-      desc: `1. Lay supine in a relaxed position with your knees up and hands across your chest.\n2. Exhale and squeeze your abs as you curl your upper body off the floor.\n3. Once your torso is perpendicular to the floor, slowly lower yourself back to the starting position.\n4. Complete for the assigned number of repetitions. `,
+      desc: `1. Lay supine in a relaxed position with your knees up and hands across your chest.\n2. Exhale and squeeze your abs as you curl your upper body off the floor.\n3. Once your torso is perpendicular to the floor, slowly lower yourself back to the starting position.\n4. Repeat for the desired number of repetitions. `,
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/lyingleg2.jpg',
       vid: 'https://www.youtube.com/embed/l4kQd9eWclE',
-      desc: `1. Lay supine in a relaxed position with your legs straight and your hands underneath your low back for support.\n2. Keep your legs straight and raise them towards your forehead while contracting your abdominals and exhaling.\n3. Once your abs are fully contracted and your legs are slightly above parallel, slowly lower your legs back to the starting position.\n4. Complete for the assigned number of repetitions. `,
+      desc: `1. Lay supine in a relaxed position with your legs straight and your hands underneath your low back for support.\n2. Keep your legs straight and raise them towards your forehead while contracting your abdominals and exhaling.\n3. Once your abs are fully contracted and your legs are slightly above parallel, slowly lower your legs back to the starting position.\n4. Repeat for the desired number of repetitions. `,
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/bicycle2.jpg',
       vid: 'https://www.youtube.com/embed/1we3bh9uhqY',
-      desc: `1. Lay supine in a relaxed position with your arms behind your head and legs straight.\n2. Exhale as you raise one knee towards your face while driving the opposite elbow to the knee.\n3. Once your abs are fully contracted, slowly lower yourself back to the starting position and repeat on the opposite side.\n4. Complete for the assigned number of repetitions. `,
+      desc: `1. Lay supine in a relaxed position with your arms behind your head and legs straight.\n2. Exhale as you raise one knee towards your face while driving the opposite elbow to the knee.\n3. Once your abs are fully contracted, slowly lower yourself back to the starting position and repeat on the opposite side.\n4. Repeat for as many reps you can do. `,
     },
     {
       id: 5,
@@ -276,7 +276,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/pullup.jpg',
       vid: 'https://www.youtube.com/embed/poyr8KenUfc',
-      desc: `1. Using a pronated grip, grasp the pull bar with a slightly wider than shoulder width grip.\n2. Take a deep breath, squeeze your glutes and brace your abs. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n3. Pull your chin towards the bar until the lats are fully contracted, then slowly lower yourself back to the start position and repeat for the assigned number of repetitions.`,
+      desc: `1. Using a pronated grip, grasp the pull bar with a slightly wider than shoulder width grip.\n2. Take a deep breath, squeeze your glutes and brace your abs. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n3. Pull your chin towards the bar until the lats are fully contracted, then slowly lower yourself back to the start position and repeat for the desired number of repetitions.`,
     },
     {
       id: 32,
@@ -285,7 +285,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/widegrippullup.jpeg',
       vid: 'https://www.youtube.com/embed/5oxviYmdHCY',
-      desc: `1. Using a pronated grip, grasp the pull bar with a wider than shoulder width grip.\n2. Take a deep breath, squeeze your glutes and brace your abs. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n3. Pull your chin towards the bar until the lats are fully contracted, then slowly lower yourself back to the start position and repeat for the assigned number of repetitions.`,
+      desc: `1. Using a pronated grip, grasp the pull bar with a wider than shoulder width grip.\n2. Take a deep breath, squeeze your glutes and brace your abs. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n3. Pull your chin towards the bar until the lats are fully contracted, then slowly lower yourself back to the start position and repeat for as many repetitions you can do.`,
     },
     {
       id: 33,
@@ -294,7 +294,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/chinup.jpg',
       vid: 'https://www.youtube.com/embed/b-ztMQpj8yc',
-      desc: `1. Using a supinated grip, grasp the bar with a shoulder width grip.\n2. Take a deep breath, squeeze your glutes and brace your abs. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n3. Pull your chin towards the bar until the lats are fully contracted, then slowly lower yourself back to the start position and repeat for the assigned number of repetitions.`,
+      desc: `1. Using a supinated grip, grasp the bar with a shoulder width grip.\n2. Take a deep breath, squeeze your glutes and brace your abs. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n3. Pull your chin towards the bar until the lats are fully contracted, then slowly lower yourself back to the start position and repeat for the desired number of repetitions.`,
     },
     {
       id: 34,
