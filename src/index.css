@@ -168,7 +168,7 @@ Exercise
   background: #24aebd;
   color: var(--clr-white);
 }
-.section-center {
+.exercise-section {
   width: 95%;
   margin: 0 auto;
   max-width: 1170px;
@@ -212,7 +212,7 @@ Exercise
 }
 /*Mobile*/
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  .section-center{
+  .exercise-section{
     grid-template-columns: 1fr;
     width:90%;
     max-width:100%;
@@ -286,7 +286,7 @@ Exercise
 }
 /*Tablet*/
 @media only screen and (min-device-width: 600px) and (max-device-width: 1025px) {
-  .section-center{
+  .exercise-section{
     grid-template-columns: 1fr;
     width:100%;
     max-width:100%;

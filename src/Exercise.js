@@ -3,7 +3,7 @@ import exercise from './data';
 
 const Exercise = ({items}) => {
   return ( 
-  <div className="section-center">
+  <div className="exercise-section">
     {items.map((exerciseItem)=> {
         const {id,title,img,desc,experience,vid} = exerciseItem;
         return (

@@ -8,7 +8,7 @@ import items from './data';
 
 function App() {
   const [exerciseItems, setExerciseItems] = useState(items);
-  // const [categories, setCategories] = useState([]);
+  
 
   const filterItems = (category) => {
     if(category === 'all'){
