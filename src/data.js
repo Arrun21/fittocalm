@@ -15,7 +15,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/lyingleg2.jpg',
       vid: 'https://www.youtube.com/embed/l4kQd9eWclE',
-      desc: `1. Lay supine in a relaxed position with your legs straight and your hands underneath your low back for support.\n2. Keep your legs straight and raise them towards your forehead while contracting your abdominals and exhaling.\n3. Once your abs are fully contracted and your legs are slightly above parallel, slowly lower your legs back to the starting position.\n4. Repeat for the desired number of repetitions. `,
+      desc: `1. Lay supine in a relaxed position with your legs straight and your hands underneath your lower back for support.\n2. Keep your legs straight and raise them towards your forehead while contracting your abdominals and exhaling.\n3. Once your abs are fully contracted and your legs are slightly above parallel, slowly lower your legs back to the starting position.\n4. Repeat for the desired number of repetitions. `,
     },
     {
       id: 3,
@@ -150,7 +150,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbellrow.jpg',
       vid: 'https://www.youtube.com/embed/-koP10y1qZI',
-      desc: `1. Assume a kneeling position on the bench with your ipsilateral (i.e. same side) hand braced against the bench.\n2. Hold a dumbbell in the opposite hand with a neutral grip.\n3. Begin the movement by driving the elbow behind the body while retracting the shoulder blade.\n4. Pull the dumbbell towards your body until the elbow is at (or just past) the midline and then slowly lower the dumbbells back to the starting position under control.\n5. Repeat for the desired number of repetitions on both sides.`,
+      desc: `1. Assume a kneeling position on the bench with your same side hand braced against the bench.\n2. Hold a dumbbell in the opposite hand with a neutral grip.\n3. Begin the movement by driving the elbow behind the body while retracting the shoulder blade.\n4. Pull the dumbbell towards your body until the elbow is at (or just past) the midline and then slowly lower the dumbbells back to the starting position under control.\n5. Repeat for the desired number of repetitions on both sides.`,
     },
     {
       id: 18,
@@ -213,7 +213,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/seatedcalfraise.jpg',
       vid: 'https://www.youtube.com/embed/JbyjNymZOt0',
-      desc: `1. Take a seat on the machine and place the balls of your feet on the platform with your toes pointed forward - your heels will naturally hang off. Position the base of quads under the knee pad and allow your hands to rest on top.\n2. Extend your ankles and release the safety bar.\n3. Lower the heels by dorsiflexing the ankles until the calves are fully stretched.\n4. Extend the ankles and exhale as you flex the calves.\n5. Repeat for the assigned number of repetitions.`,
+      desc: `1. Take a seat on the machine and place the balls of your feet on the platform with your toes pointed forward - your heels will naturally hang off. Position the base of quads under the knee pad and allow your hands to rest on top.\n2. Extend your ankles and release the safety bar.\n3. Lower the heels by bending back the ankles until the calves are fully stretched.\n4. Extend the ankles and exhale as you flex the calves.\n5. Repeat for the assigned number of repetitions.`,
     },
     {
       id: 25,
@@ -529,7 +529,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbelllunge.jpeg',
       vid: 'https://www.youtube.com/embed/COKYKgQ8KR0',
-      desc: `1. Choose a pair of dumbbells and stand up straight with a slight bend in your knees.\n2. Hold the dumbbells down at your sides. You are now in the starting position.\n3. Step forward with your left leg while maintaining your balance and squat down through your hips.\n4. Keep your torso straight and head up. Don't allow your knee to track out over your toes.\n5. Push yourself back to the starting position by using your heal to drive you.\n6. Repeat this movement with your right leg and then repeat for desired reps.`,
+      desc: `1. Choose a pair of dumbbells and stand up straight with a slight bend in your knees.\n2. Hold the dumbbells down at your sides. You are now in the starting position.\n3. Step forward with your left leg while maintaining your balance and squat down through your hips.\n4. Keep your torso straight and head up. Don't allow your knee to track out over your toes.\n5. Push yourself back to the starting position by using your heel to drive you.\n6. Repeat this movement with your right leg and then repeat for desired reps.`,
     },
     {
       id: 60,
