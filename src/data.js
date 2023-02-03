@@ -15,7 +15,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/lyingleg2.jpg',
       vid: 'https://www.youtube.com/embed/l4kQd9eWclE',
-      desc: `1. Lay supine in a relaxed position with your legs straight and your hands underneath your lower back for support.\n2. Keep your legs straight and raise them towards your forehead while contracting your abdominals and exhaling.\n3. Once your abs are fully contracted and your legs are slightly above parallel, slowly lower your legs back to the starting position.\n4. Repeat for the desired number of repetitions. `,
+      desc: `1. Lie down on your back and keep your legs straight.\n2. Make sure your legs are straight now raise them up.\n3. Once you raised your legs to a 90 degree angle, bring your legs back to the starting position.\n4. Can repeat this exercise for 12 reps or more. `,
     },
     {
       id: 3,
@@ -24,7 +24,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/pushup.jpg',
       vid: 'https://www.youtube.com/embed/KEFQyLkDYtI',
-      desc: `1. Assume a quadruped position on the floor with your hands under your shoulders, toes tucked, and knees under hips.\n2. Extend one leg at a time and assume a pushup position with the legs straight, elbows extended, and head in a neutral position looking at the floor.\n3. Slowly descend to the floor by retracting the shoulder blades and unlocking the elbows.\n4. Descend until the upper arms are parallel or your chest touches the floor.\n5. Push back to the starting point by extending the elbows and driving your palms into the floor.\n6. Repeat for the desired number of repetitions.`,
+      desc: `1. Lie down with your face, facing the floor.\n2. Arms fully stretched out in a pushing position, body and legs fully extended out in a plank position.\n3. Slowly bring your body down to the floor, chest touching the floor. Drawing back your shoulder blades and ensuring elbows are bent.\n4. Now push your body back to starting position by extending your arms and using your hands to push off the floor.\n5. Repeat this exercises for as many reps you can do`,
     },
     {
       id: 4,
@@ -33,7 +33,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/bicycle2.jpg',
       vid: 'https://www.youtube.com/embed/1we3bh9uhqY',
-      desc: `1. Lay supine in a relaxed position with your arms behind your head and legs straight.\n2. Exhale as you raise one knee towards your face while driving the opposite elbow to the knee.\n3. Once your abs are fully contracted, slowly lower yourself back to the starting position and repeat on the opposite side.\n4. Repeat for as many reps you can do. `,
+      desc: `1. Lie down on your back with your hands behind your head and legs straight.\n2. Breathe out as you bring one knee towards your face while bringing your opposite elbow to touch that knee.\n3. Upon feeling tenstion on your abs, bring your knee back to the starting position and repeat on the opposite side.\n4. Do this exercise for as many reps you can do. `,
     },
     {
       id: 5,
@@ -42,7 +42,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbellbenchpress3.jpeg',
       vid: 'https://www.youtube.com/embed/dGqI0Z5ul4k',
-      desc: `1. Pick up the dumbbells off the floor using a neutral grip (palms facing in). Position the ends of the dumbbells in your hip crease, and sit down on the bench.\n2. To get into position, lay back and keep the weights close to your chest. Once you are in position, take a deep breath, and press the dumbbells to lockout at the top.\n3. Slowly lower the dumbbells under control as far as comfortably possible (the handles should be about level with your chest).\n4. Contract the chest and push the dumbbells back up to the starting position.\n5. Repeat for the desired number of repetitions. `,
+      desc: `1. Choose your desired weight of dumbbells and sit down on the bench.\n2. Lie down on your back and bring the dumbbells close to your chest. Once you are in this position inhale, push the dumbells outwards.\n3. Slowly lower the dumbbels while controlling it, bring it down till your elbows are bent with the handles being on the same level as chest.\n4. Now push the dumbbells up again.\n5. Repeat this exercise for a certain amount of times approximately 8-12 times. `,
     },
     {
       id: 6,
@@ -51,7 +51,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/seatedcablerow.jpg',
       vid: 'https://www.youtube.com/embed/GZbfZ033f74',
-      desc: `1. Set the appropriate weight on the weight stack and attach a close-grip bar or V-bar to the seated row machine.\n2. Grasp the bar with a neutral grip (palms facing in).\n3. Keeping your legs slightly bent and your back straight, pull the weight up slightly off the stack. You should be sitting straight upright with your shoulders back. This is the starting position.\n4. Keeping your body in position, pull the handle into your stomach.\n5. Pull your shoulder blades back, squeeze, pause, and then slowly lower the weight back to the starting position.\n6. Repeat for desired reps.`,
+      desc: `1. Attach a close grip bar or V bar to the seated cable row machine after choosing the desired weight.\n2. Using a neutral grip to hold the bar with your palms facing in.\n3. Pull the weight towards you while maintaining a straight back and slightly bending your knees.\n4. Ensure you stay in this position, pull the bar towards your belly button.\n5. Ensure you pull your shoulder blades back, feel the tension and then slowly push the weight away back to the start position  \n6. Repeat this exercise for as many reps as you desire.`,
     },
     {
       id: 7,
