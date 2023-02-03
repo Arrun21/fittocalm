@@ -6,7 +6,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/situp.jpg',
       vid: 'https://www.youtube.com/embed/jDwoBqPH0jk',
-      desc: `1. Lay supine in a relaxed position with your knees up and hands across your chest.\n2. Exhale and squeeze your abs as you curl your upper body off the floor.\n3. Once your torso is perpendicular to the floor, slowly lower yourself back to the starting position.\n4. Repeat for the desired number of repetitions. `,
+      desc: `1. Lie down on your back with your knees up and hands placed behind your head.\n2. Breathe out and squeeze your abs to feel the tension as you bring your upper half off the floor.\n3. Once your upper half is 65 degrees off the floor, slowly lower your upper half back to the floor.\n4. Repeat this exercise aslong as possible (best to do for 12 times). `,
     },
     {
       id: 2,
