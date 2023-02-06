@@ -8,7 +8,7 @@ const Exercise = ({items}) => {
         const {id,title,img,desc,experience,vid} = exerciseItem;
         return (
         <article key={id} className="exercise-item">
-            <img src={img} alt={title} className='photo'/>
+            <img src={img} alt={title} className='image'/>
             <div className='item-info'>
                 <header>
                     <h4>{title}</h4>
