@@ -15,7 +15,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/lyingleg2.jpg',
       vid: 'https://www.youtube.com/embed/l4kQd9eWclE',
-      desc: `1.First lie down on you back. \n2. Raise your legs up until your legs are at a 90 degree angle. \n3. From here lower your legs but don't touch the ground.\n4. Do this exercise for a number of times (approximately 12 reps).`,
+      desc: `1.First lie down on your back. \n2. Raise your legs up until your legs are at a 90 degree angle. \n3. From here lower your legs but don't touch the ground.\n4. Do this exercise for a number of times (approximately 12 reps).`,
     },
     {
       id: 3,
@@ -411,7 +411,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbellpreacher.jpg',
       vid: 'https://www.youtube.com/embed/DoCWeUBA0Gs',
-      desc: `1. Choose your desired weight and then place arm against the top of bench.\n2. Maintain this position with your palms facing up.\n3. Inhale and slowly bring the dumbbell down away from your shoulder.\n4. Once the bicep is fully extended, curl the dumbbell back up.\n5. Repeat this exercise on both sides for a number of times.`,
+      desc: `1. First pick out dumbbells that you would like.\n2. Then on an incline bench, rest your arm against the bench.\n3. Then bring it up to your shoulder.\n4. From here bring it back down, do not fully extend the arm. Have a slight bend.\n5. Do this for both arms. Can do this for 12 reps or as many as you like. You can do it!!!`,
     },
     {
       id: 47,
@@ -420,7 +420,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/hammerpreacher.jpg',
       vid: 'https://www.youtube.com/embed/32W1sB5DkHY',
-      desc: `1. Choose your desired weight and placing chest against preacher bench.\n2. Maintain this position with your palms facing up.\n3. Inhale and slowly bring the dumbbell down away from your shoulder.\n4. Once the bicep is fully extended, curl the dumbbell back up.\n5. Repeat this exercise for a number of times.`,
+      desc: `1. First choose a pair of dumbbells.\n2. Sitting on preacher bench.\n3. Bring the dumbbells up to shoulders.\n4. Bring the dumbbells back down, do not fully extend the arm. Ensure there is a slight bend.\n5. Keep doing this for as many reps as you can do , best to do 12 reps. You got this, one more!!!`,
     },
     {
       id: 48,
@@ -429,7 +429,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/barbelldragcurl.jpg',
       vid: 'https://www.youtube.com/embed/LMdNTHH6G8I',
-      desc: `1. Choose a weight and load it onto a bar and placing hands shoulder width apart.\n2. With your palms facing up, inhale and curl the barbell towards your shoulders.\n3. When you are pulling the bar upwards, ensure to keep it close to your upper body with elbows slighlty behind your body.\n4. Once the biceps are fully contracted, control the tension and slowly lower the bar back down.\n5. Repeat this for a number of times.`,
+      desc: `1. First choose weight plates and place on barbell.\n2. Bring the barbell all the way up to shoulders, keeping the bar close to you.\n3. Then bring the barbell back down.\n4. Do this exercise for a number of reps approximately 12 reps or as many as you can do.\n5. One more, you can do it!!!`,
     },
     {
       id: 49,
@@ -438,7 +438,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/ezbarskullcrusher.jpg',
       vid: 'https://www.youtube.com/embed/d_KZxkY_0cM',
-      desc: `1. Choose your desired weights and lie down on the bench.\n2. Ensure the bar is close to chest and push the bar till fully extended.\n3. Lower the bar towards your head by bending the elbows.\n4. Repeat for a number of times.`,
+      desc: `1. First pick up an ez bar, and lie down on a bench.\n2. Lifting up the bar with arms extended out, bring the bar down behind your head.\n3. From here bring the bar back up.\n4. Do this for 12 reps or as many as you like. You got this!!!`,
     },
     {
       id: 50,
@@ -447,7 +447,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/lyingdumbbell.jpg',
       vid: 'https://www.youtube.com/embed/MO_03opCc0g',
-      desc: `1. Grasping a pair of dumbbells lie down on the bench.\n2. Extend the dumbells above your head. Your palms should be facing each other.\n3. Ensure you are only bending at the elbows, ensure your elbows are fixed and pointing towards your hips, controlling the tension lower the dumbbells down beside your head until they are ear level.\n4. Holding this position, squeeze the triceps. Then bring the dumbbells back up.\n5. Do not fully extend your arms, and then repeat for a number of times.`,
+      desc: `1. First pick up a pair of dumbbells and lie down on a bench.\n2. Lift up the dumbbell with arms stretched out.\n3. Bring the dumbbell down behind the head.\n4. Then bring the dumbbell back up. Can do this one arm at a time or both arms at the same time.\n5. Do this exercise for 12 reps or as many as you can do. One more, you can do it!!!`,
     },
     {
       id: 51,
@@ -456,7 +456,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/frenchpress.jpg',
       vid: 'https://www.youtube.com/embed/JImgCWzCHwI',
-      desc: `1. Grab an ez bar with desired weights.\n2. Gripping the barbell with palms facing down.\n3. Lift the bar above your head and bend your elbows slightly so the tension is focused on the triceps.\n4. Keeping your elbows fixed and pointing straight up, controlling the tension slowly lower the bar down behind your head as far as you can.\n5. Hold this position, and then controlling this tension slowly lower the bar.\n6. Do not fully extend your elbows, and then repeat this exercise for a number of times.`,
+      desc: `1. First pick out an ez bar that you would like.\n2. Sit down on a bench or stand up.\n3. Holding the bar bring it above your head.\n4. Then bring the ez bar down behind your head.\n5. From here bring it back up.\n6. Do this exercise for as many reps you can do, you can do this!!!`,
     },
     {
       id: 52,
@@ -465,16 +465,16 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbelltricep.jpg',
       vid: 'https://www.youtube.com/embed/ZO81bExngMI',
-      desc: `1. Choose your desired dumbbell weight and then go to a bench. With one knee on bench and hand.\n2. Lean forward, bring the dumbbells up and then extend the elbows while flexing the triceps.\n3. Controlling the tension slowly lower the dumbbells back down and repeat this exercise for a number of times.`,
+      desc: `1. First pick up your chosen dumbbell with one arm and rest your opposite knee and hand on the bench.\n2. Bring the dumbbell up towards your rib cage area, and then bending your elbow to bring the dumbbell behind you.\n3. Then bring the dumbbell back.\n4. Do this for both arms, do this for as long as you can. You got this!!!`,
     },
     {
       id: 53,
-      title: 'High Pulley Overhead Tricep Extension',
+      title: 'Overhead High Tricep Extension',
       category: 'tricep',
       experience: 'beginner',
       img: './images/overheadtricep.jpeg',
-      vid: 'https://www.youtube.com/embed/NRENeEgaIgA',
-      desc: `1. Attach a rope to the cable machine and move it as high as possilbe, while standing up.\n2. Stabding in a split stance, grip the rope overhead with palms facing each other, and lean forward.\n3. Extend the elbows and flex the triceps.\n4. Pull the rope downward until the elbows are almost fully extended and then controlling the tension slowly lower it back behind the head.\n5. Repeat for a number of times.`,
+      vid: 'https://www.youtube.com/embed/ns-RGsbzqok',
+      desc: `1. First make sure the rope attachment or straight bar is on the machine, if not clip it on.\n2. From here one leg behind the other.\n3. Then pull down the rope away from you.\n4. Then bring the rope back up.\n5. Do this for 12 reps or as many as you can. You got this!!!`,
     },
     {
       id: 54,
@@ -483,7 +483,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/machinetricepextension.jpg',
       vid: 'https://www.youtube.com/embed/bSp5GIsxwJU',
-      desc: `1. Sit on the machine and grip onto the handles.\n2. Breathe out and press the handles away from you by extending the elbows.\n3. Control the tension and slowly lower the handles back to the starting position and repeat this action for a number of reps.`,
+      desc: `1. First select your weight on the machine and sit down.\n2. Reach for the handles and bring the handles down. Arms extended out.\n3. Then bring the handles back up.\n4. Do this exercise for 12 reps or as many as you can do. Keep going, you got this!!!`,
     },
     {
       id: 55,
@@ -491,8 +491,8 @@ const exercise = [
       category: 'legs',
       experience: 'beginner',
       img: './images/romaniandeadlift.jpg',
-      vid: 'https://www.youtube.com/embed/-m45n1_x32E',
-      desc: `1. Place the bar over your feet and stand with your legs apart.\n2. With a double hand grip, deadlift the bar into place at the top with the hips and kness extended.\n3. Start the RDL by pushing your hips back and leaning forward until the bar is just below knee level.\n4. Drive through the entire foot and concentrate on pushing away from the floor.\n5. Go back to the starting position and repeat for as many repetitions as you desire.`,
+      vid: 'https://www.youtube.com/embed/7j-2w4-P14I',
+      desc: `1. First place your chosen weights on the bar.\n2. Then holding onto the bar, bend forward and bringing bar down past the knees.\n3. Then bringing the barbell back up.\n4. Keep doing this for as many times as you can. Keep going, you can do it!!!`,
     },
     {
       id: 56,
@@ -501,7 +501,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/stifflegdeadlift.jpg',
       vid: 'https://www.youtube.com/embed/1uDiW5--rAE',
-      desc: `1. Place the bar over your feet and stand in a hip width stance.\n2. Push your hips back and lean forward until your upper body is nearly 90 degrees with the floor.\n3. Reach down and grip the bar using a shoulder width, double overhand grip.\n4. Make sure your spine is neutral, shins are upright, and your hips are roughly the same height as your shoulders.\n5. Push through the entire foot and focus on pushing floor away from you.\n6. Make sure the bar is in a straight line as you extend the knees and hips.\n7. Once you have locked out the hips, reverse this action.\n8. Bring the bar back to the floor, reset, and repeat this exercise for a number of times.`,
+      desc: `1. First place your chosen weights on the bar.\n2. Then holding onto the bar, bend over keeping legs straight.\n3. Bring the bar down to your shins.\n4. Then bring the bar back up.\n5. Do this for 12 reps or as many as you can do. You can do this!!!`,
     },
     {
       id: 57,
@@ -510,8 +510,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/sumodeadlift.jpg',
       vid: 'https://www.youtube.com/embed/1v4r9hht_K4',
-      desc: `1. Place the bar over your feet and stand in a wide stance.\n2. Push your hips back and lean forward until your upper body is approximately 90 degrees with the floor.\n3. Reach down and grip the bar with hands being a shoulder width apart, double overhand grip.\n4. Breathe in and pull up slightly on the bar while allowing your hips to drop just like a seesaw.\n5. As you drop the hips and pull up the bar, ensure your armpits are placed exactly over the bar.\n6. Push through the entire foot and concentrate on pushing the flower away from you.\n7. Once you have locked out the hips, reverse this action.
-8. Bring the bar back to the floor, reset, and repeat this for a number of times.`,
+      desc: `1. First place your chosen weights on the bar.\n2. Then reach down for the bar, with feet wide apart.\n3. Bending knees and bringing the bar up.\n4. Then straighten arms, legs and back.\n5. From here bring it back down.\n6. Keep doing this for 12 reps or as many as possible. You got this!!!`,
     },
     {
       id: 58,
@@ -520,7 +519,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/dumbbellsquat.jpg',
       vid: 'https://www.youtube.com/embed/v_c67Omje48',
-      desc: `1. Choose a pair of dumbbells and bring them to your sides.\n2. Ensure theres a slight bend on your knees and keep your eyes forward and back straight.\n3. Make sure your head is facing forward slowly bring your body down. However make sure you don't lean forward while coming down. Your buttocks should be pushed out and drop straight down.\n4. Squat down as far as you can , and then control the tension and slowly raise your body back up by driving through your heels.\n5. Do not fully extend the knees out when you stand up, and then repeat this exercise for a number of times.`,
+      desc: `1. First pick up a pair of dumbbells.\n2. Then holding the dumbbells, bend your knees to bring down the dumbbells.\n3. From here bring the dumbbells back up by extending the legs.\n4. Do this for as many reps you can do. You can do it!!!`,
     },
     {
       id: 59,
@@ -529,7 +528,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbelllunge.jpeg',
       vid: 'https://www.youtube.com/embed/COKYKgQ8KR0',
-      desc: `1. Select a pair of dumbbells and ensure your back is straight while standing up with knees slightly bent.\n2. Holding onto the dumbells by your sides.\n3. Step forward with your left leg while ensuring you don't lose your balance and squat down.\n4. Make sure your upper body is straight.\n5. Then push your body back up through the use of your heel.\n6. Repeat this exercise on your other leg and repeat this for a number of times.`,
+      desc: `1. First pick up a pair of dumbbells.\n2. Holding onto the dumbbells, bring your dominant leg forward.\n3. Squatting down on that leg, with the other leg stretched out behind you.\n4. Do this for your other leg as well.\n5. Best to do for 12 reps on both sides or as many as you like. Keep going, you can do it!!!`,
     },
     {
       id: 60,
@@ -538,7 +537,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/oneleg.jpg',
       vid: 'https://www.youtube.com/embed/Ll60EDemwdQ',
-      desc: `1. Stand in a split position while holding onto the dumbbells.\n2. Place your back foot on a bench.\n3. Lower yourself by flexing the front knee and keep doing this until the back knee reaches the floor.\n4. Push through the front foot and extend the knee as you go back to how you started.\n5. Repeat this for a number of times.`,
+      desc: `1. First pick up a pair of dumbbells.\n2. Place one leg on the bench.\n3. Holding onto the dumbbells squat down on the leg not on the bench.\n4. From here bring the leg back up.\n5. Recommend to do this for 12 reps or as many reps that you can do. You can do this!!!`,
     },
   ];
   export default exercise;
