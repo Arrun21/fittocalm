@@ -33,7 +33,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/bicycle2.jpg',
       vid: 'https://www.youtube.com/embed/1we3bh9uhqY',
-      desc: `1. First lie down on your back. With your legs stretched out.\n2. From here bring one knee up till it reaches your belly button, then bring your elbow that is opposite the knee and touch the knee.\n3. After this do it for the other knee and elbow.\n4. Keep doing this for a number of times maybe 12 reps, you got this!!!!`,
+      desc: `1. First lie down on your back. With your legs stretched out.\n2. From here bring one knee up till it reaches your belly button, then bring your elbow that is opposite the knee and touch the knee.\n3. After this do it for the other knee and elbow.\n4. Keep doing this for a number of times maybe 12 reps, you got this!!!`,
     },
     {
       id: 5,
@@ -42,7 +42,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbellbenchpress3.jpeg',
       vid: 'https://www.youtube.com/embed/VmB1G1K7v94',
-      desc: `1. First pick out a set of dumbbells that you can lift.\n2. From here find a flat bench and lie down.\n3. Now you should push out the dumbbells till your elbows are nearly fully stretched.\n4. Then bring arms back down till the dumbbells reach your chest level.\n5. Keep doing this for approximately 12 times. One more push keep goinggg!!!!`,
+      desc: `1. First pick out a set of dumbbells that you can lift.\n2. From here find a flat bench and lie down.\n3. Now you should push out the dumbbells till your elbows are nearly fully stretched.\n4. Then bring arms back down till the dumbbells reach your chest level.\n5. Keep doing this for approximately 12 times. One more push keep going!!!`,
     },
     {
       id: 6,
@@ -51,7 +51,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/seatedcablerow.jpg',
       vid: 'https://www.youtube.com/embed/GZbfZ033f74',
-      desc: `1. First check if the cable row has a close grip attached if not, clip on the close grip.\n2. From here reach for the close grip and then bring it back till it reaches your stomach area.\n3. Make sure your back is straight.\n4. Then slowly release till your arms are nearly stretched out.\n5. Then bring it back to stomach area.\n6. Best to do this for 12 reps or as many as you can do. Keepp goinggg!!!`,
+      desc: `1. First check if the cable row has a close grip attached if not, clip on the close grip.\n2. From here reach for the close grip and then bring it back till it reaches your stomach area.\n3. Make sure your back is straight.\n4. Then slowly release till your arms are nearly stretched out.\n5. Then bring it back to stomach area.\n6. Best to do this for 12 reps or as many as you can do. Keep going!!!`,
     },
     {
       id: 7,
@@ -60,7 +60,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/inclinedumbell.jpg',
       vid: 'https://www.youtube.com/embed/07Bcqtib4FM',
-      desc: `1. Pick up a pair of dumbbells make sure its not too heavy for you.\n2. From here find an incline bench or adjust a bench till its in the incline position.\n3. Then push the dumbbells forwards away from you, till your arms are stretched out.\n4. Then bring the dumbbells back down, keep doing this for 12 reps or more. Keep goingggggg, you got thisss!!!!!`,
+      desc: `1. Pick up a pair of dumbbells make sure its not too heavy for you.\n2. From here find an incline bench or adjust a bench till its in the incline position.\n3. Then push the dumbbells forwards away from you, till your arms are stretched out.\n4. Then bring the dumbbells back down, keep doing this for 12 reps or more. Keep going, you got this!!!`,
     },
     {
       id: 8,
@@ -69,7 +69,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/ropetricep.jpg',
       vid: 'https://www.youtube.com/embed/vB5OHsJ3EME',
-      desc: `1. First make sure the cable machine has the rope attached, if not find the rope attachment and clip it on. Make sure it is raised to the maximum height.\n2. From here bring the rope down. With arms stretched out.\n3. Then bring the rope back up.\n4. Best to do this for 12 reps, you got thisss keeppp goinggg!!!!`,
+      desc: `1. First make sure the cable machine has the rope attached, if not find the rope attachment and clip it on. Make sure it is raised to the maximum height.\n2. From here bring the rope down. With arms stretched out.\n3. Then bring the rope back up.\n4. Best to do this for 12 reps, you got this keep going!!!`,
     },
     {
       id: 9,
@@ -78,7 +78,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/seatedlegcurl.jpg',
       vid: 'https://www.youtube.com/embed/4ZDm5EbiFI8',
-      desc: `1. First select the weight you would like and sit down on the machine.\n2. Place your legs against the padding.\n3. Lift your leg up till stretched out. And then bring it back down.\n4. Keep doing this for 12 reps, you got thisss!!! `,
+      desc: `1. First select the weight you would like and sit down on the machine.\n2. Place your legs against the padding.\n3. Lift your leg up till stretched out. And then bring it back down.\n4. Keep doing this for 12 reps, you got this!!! `,
     },
     {
       id: 10,
@@ -87,7 +87,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/barbellbenchpress.jpg',
       vid: 'https://www.youtube.com/embed/4aVy2Xj6wYs',
-      desc: `1. First place how many plates you wish on your barbell. Then lie down.\n2. From here you should reach for the barbell.\n3. Bring the barbell down till it nearly reaches your chest.\n4. Then bring the barbell back up.\n5. Keep doing this for 12 reps or less. You got thisss,keeep goinggg !!!!!`,
+      desc: `1. First place how many plates you wish on your barbell. Then lie down.\n2. From here you should reach for the barbell.\n3. Bring the barbell down till it nearly reaches your chest.\n4. Then bring the barbell back up.\n5. Keep doing this for 12 reps or less. You got this,keep going!!!`,
     },
     {
       id: 11,
@@ -96,7 +96,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/inclinebench.jpg',
       vid: 'https://www.youtube.com/embed/dtNXLavPFo0',
-      desc: `1. First adjust the bench into an incline position.\n2. Then choose your weight plates and place it on the bar. And lie down on the bench.\n3. Lift the bar off the rack.\n4. Bring the bar down to your chest.\n5. Then bring the bar back up.\n6. Make sure that your elbows are slightly bent.\n7. Best to do this for 12 reps or less.\n8. One more pushhh, you got thisss!!! `,
+      desc: `1. First adjust the bench into an incline position.\n2. Then choose your weight plates and place it on the bar. And lie down on the bench.\n3. Lift the bar off the rack.\n4. Bring the bar down to your chest.\n5. Then bring the bar back up.\n6. Make sure that your elbows are slightly bent.\n7. Best to do this for 12 reps or less.\n8. One more push, you got this!!! `,
     },
     {
       id: 12,
@@ -105,7 +105,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/chestfly.jpg',
       vid: 'https://www.youtube.com/embed/Z57CtFmRMxA',
-      desc: `1. First choose your weight on the chest fly machine.\n2. If the seat is not comfortable, adjust the height.\n3. From here grab the handle bars and then bring it towards your chest.\n4. Then bring it away from your chest.\n5. Keep doing this exercise for approximately 12 reps.\n6. Keeppp goinggg!!!!`,
+      desc: `1. First choose your weight on the chest fly machine.\n2. If the seat is not comfortable, adjust the height.\n3. From here grab the handle bars and then bring it towards your chest.\n4. Then bring it away from your chest.\n5. Keep doing this exercise for approximately 12 reps.\n6. Keep going!!!`,
     },
     {
       id: 13,
@@ -114,7 +114,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/chestdip.jpg',
       vid: 'https://www.youtube.com/embed/dX_nSOOJIsE',
-      desc: `1. First place your hands on the grips.\n2. Push your body upwards, with arms extended.\n3. Bring your body back down with elbows bent.\n4. Do this exercise for 12 reps or as many as you can. Keep pushingg, you got thisss!!!`,
+      desc: `1. First place your hands on the grips.\n2. Push your body upwards, with arms extended.\n3. Bring your body back down with elbows bent.\n4. Do this exercise for 12 reps or as many as you can. Keep pushing, you got this!!!`,
     },
     {
       id: 14,
@@ -123,7 +123,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/standingdumbbell.jpg',
       vid: 'https://www.youtube.com/embed/ykJmrZ5v0Oo',
-      desc: `1. First pick out a set of dumbbells.\n2. From here pick up the dumbbells and stand upright.\n3. At the same time bring both arms up, until dumbbells reach shoulder height.\n4. Make sure you are moving your elbows not moving the whole arm up.\n5. Then bring the dumbbells back down.\n6. Best to do for 12 reps or as many as you can. Keepppp goinnggg, you can do ittt!!!`,
+      desc: `1. First pick out a set of dumbbells.\n2. From here pick up the dumbbells and stand upright.\n3. At the same time bring both arms up, until dumbbells reach shoulder height.\n4. Make sure you are moving your elbows not moving the whole arm up.\n5. Then bring the dumbbells back down.\n6. Best to do for 12 reps or as many as you can. Keep going, you can do it!!!`,
     },
     {
       id: 15,
@@ -132,7 +132,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/standingbar.jpg',
       vid: 'https://www.youtube.com/embed/kwG2ipFRgfo',
-      desc: `1. First pick out a barbell.\n2. From here pick up the barbell and stand upright.\n3. Bring up the barbell until it reaches shoulder height.\n4. Make sure you are moving your elbows not moving the whole arm up.\n5. Then bring the barbell back down.\n6. Best to do for 12 reps or as many as you can. Keepppp goinnggg, you can do ittt!!!`,
+      desc: `1. First pick out a barbell.\n2. From here pick up the barbell and stand upright.\n3. Bring up the barbell until it reaches shoulder height.\n4. Make sure you are moving your elbows not moving the whole arm up.\n5. Then bring the barbell back down.\n6. Best to do for 12 reps or as many as you can. Keep going, you can do it!!!`,
     },
     {
       id: 16,
@@ -141,7 +141,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/bentoverrow.jpg',
       vid: 'https://www.youtube.com/embed/FWJR5Ve8bnQ',
-      desc: `1. First place your desired weights on the barbell. Lift it off the rack.\n2. Bend over slightly and lift up the barbell to your belly button.\n3. From here bring the barbell back down.\n4. Do this for 12 reps or as many as possible, keep goinggg, you can do thisss!!!`,
+      desc: `1. First place your desired weights on the barbell. Lift it off the rack.\n2. Bend over slightly and lift up the barbell to your belly button.\n3. From here bring the barbell back down.\n4. Do this for 12 reps or as many as possible, keep going, you can do this!!!`,
     },
     {
       id: 17,
@@ -150,7 +150,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbellrow.jpg',
       vid: 'https://www.youtube.com/embed/-koP10y1qZI',
-      desc: `1. First choose a set of dumbbells.\n2. Then go to a flat bench,place your left knee and left hand on the bench.\n3. With your right hand bring up the dumbbell towards your ribs area.\n4. Then bring the dumbbell back down.\n5. Best to do for 12 reps or as many as you can for both arms, keepppp goinngggg, you got thisss!!!`,
+      desc: `1. First choose a set of dumbbells.\n2. Then go to a flat bench,place your left knee and left hand on the bench.\n3. With your right hand bring up the dumbbell towards your ribs area.\n4. Then bring the dumbbell back down.\n5. Best to do for 12 reps or as many as you can for both arms, keep going, you got this!!!`,
     },
     {
       id: 18,
@@ -159,7 +159,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/latpulldown.jpg',
       vid: 'https://www.youtube.com/embed/u3gQT2aMVaI',
-      desc: `1. First make sure the wide grip is attached onto the machine, if not clip the wide grip on.\n2. From here reach up and pull the grip down to your upper chest.\n3. Then bring the grip back up.\n4. Best to do for 12 reps or as many as you can, you gottt thissss, keep goinggg!!! `,
+      desc: `1. First make sure the wide grip is attached onto the machine, if not clip the wide grip on.\n2. From here reach up and pull the grip down to your upper chest.\n3. Then bring the grip back up.\n4. Best to do for 12 reps or as many as you can, you got this, keep going!!! `,
     },
     {
       id: 19,
@@ -168,7 +168,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/concentrationcurl.jpg',
       vid: 'https://www.youtube.com/embed/0AUGkch3tzc',
-      desc: `1. First pick a set of dumbbells, and bring them back to the bench.\n2. From here,sit on the bench.\n3. Place your left arm against your left knee and bring up the dumbbell.\n4. Bring the dumbbell down, do this for the right arm as well.\n5. Do this for 12 reps or as many as you can, you can do thisss!!!`,
+      desc: `1. First pick a set of dumbbells, and bring them back to the bench.\n2. From here,sit on the bench.\n3. Place your left arm against your left knee and bring up the dumbbell.\n4. Bring the dumbbell down, do this for the right arm as well.\n5. Do this for 12 reps or as many as you can, you can do this!!!`,
     },
     {
       id: 20,
@@ -177,7 +177,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/straightbar.jpeg',
       vid: 'https://www.youtube.com/embed/LlBqt8dksdk',
-      desc: `1. First make sure the cable machine has the straight bar attached, if not find the straight bar attachment and clip it on. Make sure it is raised to the maximum height.\n2. From here bring the bar down.\n3. Then bring the bar back up.\n4. Best to do this for 12 reps, you got thisss keeppp goinggg!!!!`,
+      desc: `1. First make sure the cable machine has the straight bar attached, if not find the straight bar attachment and clip it on. Make sure it is raised to the maximum height.\n2. From here bring the bar down.\n3. Then bring the bar back up.\n4. Best to do this for 12 reps, you got this keep going!!!`,
     },
     {
       id: 21,
@@ -185,8 +185,8 @@ const exercise = [
       category: 'tricep',
       experience: 'beginner',
       img: './images/standingdumbbelltricep2.jpg',
-      vid: 'https://www.youtube.com/embed/VjmgzEmODnI',
-      desc: `1. Choose a weight then ensure you are standing away in a open space.\n2. Lift the dumbbell over your head ,inhale, overlap your hands around the dumbbell, then lower the dumbbell behind your head with elbows bent.\n3. Then bring the dumbbell back to above your head.\n4. Repeat this exercise for a number of repetitions.`,
+      vid: 'https://www.youtube.com/embed/-Vyt2QdsR7E',
+      desc: `1. First pick out a dumbbell.\n2. Now bring the dumbbell behind your head with both hands and bring it up,till its above your head.\n3. From here bring it down, till your elbows are bent.\n4. Best to do for 12 reps or as many as you can, keep going you can do it!!!`,
     },
     {
       id: 22,
@@ -195,7 +195,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/onearm.jpeg',
       vid: 'https://www.youtube.com/embed/_gsUck-7M74',
-      desc: `1. Standing in a open space holding the dumbbell above your head with your palm facing forward.\n2. Your elbow should be slightly bent. You can use your other hand to help maintain your balance.\n3. Bend your elbow and lower it till it reaches your neck.\n4. Once the dumbbel reaches this area of your neck should feel tension, controlling the tension bring the dumbbell back to above your head.\n5. Ensure your elbows are still slightly bent when you reach the start position, and then repeat this for as many reps you like.`,
+      desc: `1. First pick out a dumbbell.\n2. Now bring the dumbbell behind your head with one hand and bring it up,till its above your head.\n3. From here bring it down, till your elbows are bent.\n4. Best to do for 12 reps or as many as you can for both arms, keep going you can do it!!!`,
     },
     {
       id: 23,
@@ -204,7 +204,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/legpress.jpg',
       vid: 'https://www.youtube.com/embed/VFk3RzndUEc',
-      desc: `1. Choose the desired weight and place your back against the padded seat and with your legs against the machine.\n2. Place your legs so that they aligned with your shoulder width.\n3. Inhale, extend your legs, and unlock the safeties.\n4. Controlling the weight slowly lower it until its 45 degree angle.\n5. Push the weight back to starting position do not fully extend your legs.\n6. Repeat for a number of reps.`,
+      desc: `1. First place weights on the machine, and sit down.\n2. Place your feet against the machine with knees slightly bent.\n3. Now push the machine with your legs, do not fully straighten your legs.\n4. From here bring the machine back down.\n5. Do this exercise for 12 reps or as many as you can. Keep going, one more push!!!`,
     },
     {
       id: 24,
@@ -213,7 +213,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/seatedcalfraise.jpg',
       vid: 'https://www.youtube.com/embed/JbyjNymZOt0',
-      desc: `1. Sit on the machine and place the balls of your feet on the platform. \n2. Extend your ankles and release the safety bar.\n3. Lift your heels up off the platform.\n4. Hold the tension and controlling the tension lower your heel back down.\n5. Repeat this for a number of reps.`,
+      desc: `1. First choose a weight and sit down.\n2. Place your feet on the machine.\n3. Lift your feet up using the ball of your feet.\n4. From here bring it back down.\n5. Do this exercise for 12 reps or as long as you can, keep going you can do this!!!`,
     },
     {
       id: 25,
@@ -222,7 +222,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/barbellsquat.jpg',
       vid: 'https://www.youtube.com/embed/MVMNk0HiTMg',
-      desc: `1. To start this exercise first load the amount of weights you would like to use, and then set the barbell to below shoulder height.\n2. Now stand under the barbell with feet apart at about shoulder width and toes should be pointing slightly outwards.\n3. Now place the barbell so it rests on the upper of your back.\n4. Grip the bar with a wide grip.\n5. Bend at the knees and ensure your back is straight and lift the bar off the rack.\n6. Take a step back so you are away from the rack.\n7. Keeping your head facing forward slowly lower your body down. Don't lean forward as you are coming down. Your buttocks should come out and drop straight down.\n8. Squat down until your knees are bent at a 90 degree angle and then push your body back up.\n9. Do not fully extend the knees when you stand up, and then repeat this for a number of reps.`,
+      desc: `1. First place weights that you would like on the barbell.\n2. From here go under the barbell, placing it on your upper back and lift it off the rack.\n3. Take a step back.\n4. From here bend your knees down, just like doing a traditional squat.\n5. Then stand back up.\n6. Best to do for 12 reps or as many as you can, one more you can do it!!!`,
     },
     {
       id: 26,
@@ -231,7 +231,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/cablecrossover.jpg',
       vid: 'https://www.youtube.com/embed/taI4XduLpTk',
-      desc: `1. Place both handles as high as possible and then choose a weight.\n2. Grip onto both handles with a neutral grip.\n3. Keep a straight back, and ensure your knees are slighly bent, and then pull the handles together so they are facing you.\n4. Controlling the tenstion slowly return the handles to the start position and repeat this exercise for a number of reps.`,
+      desc: `1. First choose your weights and then grab the two handles on the cable machine.\n2. With one leg back and one leg forward. Bring your arms forwards so they are infront of chest.\n3. From here bring your arms back out.\n4. Do this for 12 reps or as many as you can, keep going!!!`,
     },
     {
       id: 27,
@@ -240,7 +240,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/dumbbellfly.jpg',
       vid: 'https://www.youtube.com/embed/eozdVDA78K0',
-      desc: `1. Choose a desired weight. Lie down on the bench.\n2. Keep the dumbbells close to your chest. Inhale and then bring the dumbbells together with arms straight out infront of you.\n3. Once the dumbbells align with your chest, slowly lower the dumbbells by bringing them away from your body.\n4. Now repeat this exercise for a number of times.`,
+      desc: `1. First select a pair of dumbbells, lie down on a flat bench.\n2. Bring the dumbbells up, arms extended out infront of you.\n3. From here bring the dumbbells away from your body.\n4. Best to do for 12 reps or more, you can do this!!!`,
     },
     {
       id: 28,
@@ -249,7 +249,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/dumbbellpullover.jpg',
       vid: 'https://www.youtube.com/embed/zUVzVXMh9Nc',
-      desc: `1. Rest against with both of your hands holding onto a dumbbell.\n2. You should be at a 90 degree angle against the bench. Ensure your back is straight, knees bent at 90 degrees, and feet are planted firmly on the ground.\n3. Grasping the dumbbell in both hands, extending out your arms ensure they are straight and that it is directly above your head.\n4. Bending only at the shoulders and making sure the arms are straight, controlling the tension lower the dumbbell until it reaches the bench.\n5. Controlling the tension slowly bring the dumbbell back up.\n6. Repeat this for a number of reps.`,
+      desc: `1. First pick out a dumbbell, with both hands hold onto the dumbbell.\n2. Lie your back against the bench.\n3. From here bring the dumbbell back behind your head.\n4. Then bring it back up, arms extended out.\n5. Do this for 12 reps or as many as you can do. Keep going!!!`,
     },
     {
       id: 29,
@@ -258,7 +258,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/inclinedumbellbenchpress.jpg',
       vid: 'https://www.youtube.com/embed/07Bcqtib4FM',
-      desc: `1. Choose a pair of dumbbells and sit down on an incline bench.\n2. Lie back on the bench and then bring the dumbbells together at the top.\n3. Controlling the tenstion lower the dumbbells down, the dumbbells should be about chest level.\n4. Contract the chest and push the dumbbells back up to the top.\n5. Repeat this exercise for a number of reps.`,
+      desc: `1. First pick out your dumbbells, and find an incline bench or adjust a bench to incline position.\n2. Lie down on the bench.\n3. Bring the dumbbells up with your arms stretched out.\n4. Bring the dumbbells back down to chest height.\n5. Best to do for 12 reps or as many as you can. You got this, one more push!!!`,
     },
     {
       id: 30,
@@ -267,7 +267,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/hammerstrength.jpg',
       vid: 'https://www.youtube.com/embed/ig0NyNlSce4',
-      desc: `1. Sit down on the hammer strength machine, choose your desired weight.\n2. Place your palms on the handles, take a deep breathe, and bring your shoulder blades together.\n3. Push the handles till fully extended.\n4. Repeat this exercise for a number of reps.`,
+      desc: `1. First place your chosen your weights onto the machine, and sit down.\n2. Grab the handles, and push your arms straight up.\n3. Bring the handles back down near chest.\n4. Do this for 12 reps or as many as you can do. One more push!!!`,
     },
     {
       id: 31,
@@ -275,8 +275,8 @@ const exercise = [
       category: 'bodyweight',
       experience: 'beginner',
       img: './images/pullup.jpg',
-      vid: 'https://www.youtube.com/embed/poyr8KenUfc',
-      desc: `1. With your palms facing away from you grip onto the pull up bar, position your hands so they are roughly shoulder width.\n2. Inhale, tighten your glutes and engage your core. Drive your elbows straight down while depressing your shoulder blades and engaging your lats.\n3. Pull your chin till its over the bar and your lats are fully contracted , slowly lower yourself down while controlling the tenstion and repeat this exercise for a number of times.`,
+      vid: 'https://www.youtube.com/embed/UgKaDSA3uIg',
+      desc: `1. First find a pull up bar and place your hands so that they are slightly apart.\n2. From here pull your body up till your chin is above the bar.\n3. Then bring your body back down.\n4. Do this for 12 reps or as many as you can. Keep going, one more!!! `,
     },
     {
       id: 32,
@@ -284,8 +284,8 @@ const exercise = [
       category: 'bodyweight',
       experience: 'beginner',
       img: './images/widegrippullup.jpeg',
-      vid: 'https://www.youtube.com/embed/5oxviYmdHCY',
-      desc: `1. With your palms facing away from you grip onto the pull up bar, position your hands so they are wider than shoulder width.\n2. Inhale, tighten your glutes and engage your core. Drive your elbows straight down while depressing your shoulder blades and engaging your lats.\n3. Pull your chin till its over the bar and your lats are fully contracted , slowly lower yourself down while controlling the tenstion and repeat this exercise for a number of times.`,
+      vid: 'https://www.youtube.com/embed/iywjqUo5nmU',
+      desc: `1. First find a pull up bar and place your hands so that they are wide apart.\n2. From here pull your body up till your chin is above the bar.\n3. Then bring your body back down.\n4. Do this for 12 reps or as many as you can. Keep going, one more!!! `,
     },
     {
       id: 33,
@@ -293,8 +293,8 @@ const exercise = [
       category: 'bodyweight',
       experience: 'beginner',
       img: './images/chinup.jpg',
-      vid: 'https://www.youtube.com/embed/b-ztMQpj8yc',
-      desc: `1. With your palms facing towards you grip onto the pull up bar, position your hands so they are shoulder width.\n2. Inhale, tighten your glutes and engage your core. Drive your elbows straight down while depressing your shoulder blades and engaging your lats.\n3. Pull your chin till its over the bar and your lats are fully contracted , slowly lower yourself down while controlling the tenstion and repeat this exercise for a number of times.`,
+      vid: 'https://www.youtube.com/embed/_71FpEaq-fQ',
+      desc: `1. First find a pull up bar, with your palms facing away from you. Place your hands on the bar so that they are slightly apart.\n2. From here pull your body up till your chin is above the bar.\n3. Then bring your body back down.\n4. Do this for 12 reps or as many as you can. Keep going, one more!!! `,
     },
     {
       id: 34,
@@ -303,7 +303,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/sidecrunch.jpg',
       vid: 'https://www.youtube.com/embed/w0OWFjfI3zM',
-      desc: `1. Lie down on your side with your knees ontop of each other.\n2. Position your left hand behind your head for support and use your right hand to rest on your core.\n3. Tighten your abs to raise your upper body off the floor, controlling this tension slowly lower yourself back to the floor and do this exercise for a number of reps.\n4. Do this exercise on the opposite side too.`,
+      desc: `1. First lie on your side, place both of your legs ontop of each other with legs being bent.\n2. Now with one arm place it behind head, and then bring your shoulder up.\n3. From here bring your shoulder back down.\n4. Best to do for 12 reps or more, keep going!!!`,
     },
     {
       id: 35,
@@ -312,7 +312,7 @@ const exercise = [
       experience: 'advanced',
       img: './images/hanginglegraise.jpg',
       vid: 'https://www.youtube.com/embed/Pr1ieGZ5atk',
-      desc: `1. Hang on a bar, tighten up your core. Keep your legs straight and infront of you, bring your legs as high as posible keeping legs straight.\n2. Hold the tension, and then slowly lower your legs back down.\n3. Repeat for a number of reps.`,
+      desc: `1. First hang on a bar, then raise your legs up as high as you can.\n2. From here bring your legs back down.\n3. Do this for as long as you can, keep going!!!`,
     },
     {
       id: 36,
@@ -321,7 +321,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/sideplank.jpg',
       vid: 'https://www.youtube.com/embed/NXr4Fw8q60o',
-      desc: `1. Lie on your side with your legs placed ontop of each other.\n2. Using your elbow to rest on the floor.\n3. Lift up your hips so that your body is perfectly straight.\n4. Now maintain this position for as long as you can.\n5. Do this exercise on the opposite side as well.`,
+      desc: `1. First lie on your side, then using your elbow to raise your body up.\n2. Make sure your legs are straight.\n3. From here hold onto this position for 30 seconds to 1 minute.\n4. Make sure you do this exercise on your other side as well.\n5. Keep going, hold for a little longer!!!`,
     },
     {
       id: 37,
@@ -329,8 +329,8 @@ const exercise = [
       category: 'back',
       experience: 'beginner',
       img: './images/bentoverdumbbell.jpg',
-      vid: 'https://www.youtube.com/embed/DhewkuU_95s',
-      desc: `1. Choose your desired weights, and standing up hold the dumbbells with palms facing each other.\n2. Lean forward until the upper body is aligned with the floor.Bring elbows back behind the body while depressing shoulder blades.\n3. Pull the dumbbells towards you until your elbows go past your sides and then controlling the tension lower it back to the start position.\n4. Repeat this exercise for a number of times.`,
+      vid: 'https://www.youtube.com/embed/6TSP1TRMUzs',
+      desc: `1. First pick out a pair of dumbbells, with your back slightly bent over.\n2. Bring the dumbbells up to ribcage area.\n3. Bring the dumbbells back down.\n4. Do this exercise for 12 reps or as many as you can. You can do it!!!`,
     },
     {
       id: 38,
@@ -339,7 +339,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/tbar.jpg',
       vid: 'https://www.youtube.com/embed/j3Igk5nyZE4',
-      desc: `1. Stand with your legs apart with the bar placed between your legs.\n2. Using a v-grip handle place the bar directly in the notch of the v.\n3. Lean forward until your upper body is slightly parallel with the floorve) bring your the elbows behind your body while retracting the shoulder blades.\n4. Pull the bar towards you until the plates touch your chest and then controlling the tension slowly lower the handle back to how you started.\n5. Repeat this for a number of reps.`,
+      desc: `1. First place your chosen weights onto the bar.\n2. Reach down and grab onto the handle.\n3. Bring the bar up to your chest.\n4. Then bring the bar back down.\n5. Keep doing this for 12 reps or as many as you can, keep going!!!`,
     },
     {
       id: 39,
@@ -348,7 +348,7 @@ const exercise = [
       experience: 'intermediate',
       img: './images/behindneck.jpg',
       vid: 'https://www.youtube.com/embed/qayYjoMZQrw',
-      desc: `1. Attach a wide grip onto the lap pulldown machine and then sit down.\n2. Gripping the handle with palms facing away and then contract the shoulder blades and flexing the elbow and extending the shoulder.\n3. Pull the bar behind your neck until it reaches the traps and then controlling the tension slowly bring the bar back up.\n4. Repeat this for a number of times.`,
+      desc: `1. First make sure the wide grip is on the machine, if not clip the wide grip on.\n2. Similar to the lat pulldown, pull down the wide grip but then bring it behind your head until it reaches your lower neck.\n3. Then bring it back up.\n4. Best to do this for 12 reps or as many as you can. One more, you can do it!!!`,
     },
     {
       id: 40,
@@ -357,7 +357,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/superman.jpg',
       vid: 'https://www.youtube.com/embed/cc6UVRS7PW4',
-      desc: `1. Lie down with stomach touching the floor, with your hands by your side and feet close together.\n2. Engage your spinal erectors to stretch your lower back.\n3. Feeling the tenstion slowly return back to the starting position and repeat for a number of repetitions.`,
+      desc: `1. Lie down on your stomach. With arms and legs stretched out.\n2. Lift the right arm and left leg up at the same time and hold. Do this for the opposite arm and leg as well.\n3. Keep doing this exercise for 12 reps, you can do it!!!`,
     },
     {
       id: 41,
@@ -366,7 +366,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/supportedchest.jpg',
       vid: 'https://www.youtube.com/embed/fV78qqekQU4',
-      desc: `1. Adjust a bench into a incline bench by bringin it up to 45 degrees and lie with your stomach against on the bench.\n2. Grasping a dumbbell in each hand with palms facing each other, drive your elbows past your body while retracting the shoulder blades.\n3. Pull the dumbbells so that they just go past your sides and then controlling the tension slowly lower the dumbbells.\n4. Repeat this exercise for a number of reps.`,
+      desc: `1. First pick out a pair of dumbbells, find an incline bench or adjust a bench into a incline position. Lie down with your front against the bench.\n2. Bring up the dumbbells up to rib cage area.\n3. Then bring the dumbbells back down.\n4. Do this exercise for 12 reps or as many as you can. One more!!!`,
     },
     {
       id: 42,
@@ -375,7 +375,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/machinerow.jpg',
       vid: 'https://www.youtube.com/embed/TeFo51Q_Nsc',
-      desc: `1. Place your chest against the padding.\n2. Sit down on the machine and place your hands on the handles.\n3. Maintaining this position , with your eyes facing forward and elbows by your side, slowly pull the handles back as far as you can.\n4. Hold this position, squeezing your shoulder blades together, and then controlling the tension slowly lower the handles back to how you started.\n5. Repeat for as many times as you like.`,
+      desc: `1. First select a weight on the machine.\n2. Place your chest against the padding.\n3. Reach for the handles and pull them towards you.\n4. Then bring them back.\n5. Do this for 12 reps or as many as you can. You can do this!!!`,
     },
     {
       id: 43,
@@ -384,7 +384,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/standinghammer.jpg',
       vid: 'https://www.youtube.com/embed/TwD-YGVP4Bk',
-      desc: `1. Standing with back straight hold onto the dumbbells by your side.\n2. Your palms should be facing towards your body.\n3. Ensure your elbows are slightly bent to focus the tension on biceps.\n4. Maintaining this position, slowly curl the dumbbells up as to chest area.\n5. Tighten the biceps once it reaches chest height, and then controlling this tension slowly lower the dumbbell down back to your side.\n6. Repeat this exercise for a number of times.`,
+      desc: `1. First select your pair of dumbbells.\n2. Then bring up one dumbbell at a time.\n3. Bring it up to chest area.\n4. Then bring the dumbbell back down.\n5. Do the exact same with your other arm.\n6. Keep doing this exercise for 12 reps or as many as you can, you can do it!!!`,
     },
     {
       id: 44,
@@ -393,7 +393,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/ezbar.jpg',
       vid: 'https://www.youtube.com/embed/Gydpcouclx8',
-      desc: `1. Fix the seat so that your arms rest comfortably on the padding when sitting down.\n2. Place the weights onto the bar.\n3. Sit on the preacher bench and grasp the EZ bar with your hands shoulder width apart with palms facing up.\n4. Ensure that your back is straight and that your head is facing forward, lift the bar off the rack with your elbows slightly bent.\n5. Slowly bring the bar up until your forearms are at a 90 degree angle to the floor.\n6. Squeeze your bicep once it reaches the top, and then controlling the tension slowly lower it back down.\n7. Repeat for a number of reps.`,
+      desc: `1. First place your chosen weight plates onto the ez bar.\n2. Grip onto the bar and bring it up to your shoulders.\n3. Then bring the bar back down.\n4. Do this exercise for 12 reps or as many as you can, you can do it!!!`,
     },
     {
       id: 45,
@@ -402,7 +402,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/reversecurl.jpeg',
       vid: 'https://www.youtube.com/embed/nRgxYX2Ve9w',
-      desc: `1. Choose the desired weights and then standing up\n2. With palms facing down, inhale and curl the bar towards your shoulders.\n3. Once the biceps are fully contracted, controll the tension and slowly lower the bar back down.\n4. Repeat this for a number of reps.`,
+      desc: `1. First pick up a barbell or a ez bar.\n2. With your hands facing down, grip the bar.\n3. Bring the barbell up till it reaches chest area.\n4. Bring the barbell back down.\n5. Keep doing this for 12 reps or as many as possible, you can do it!!!`,
     },
     {
       id: 46,
