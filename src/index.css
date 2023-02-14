@@ -71,7 +71,7 @@ Exercise
   color: #24aebd;
   cursor: pointer;
   margin: 0 0.5rem;
-  transition: all 0.4s linear;
+  transition: all 0.1s linear;
   border-radius: 1rem;
   text-transform: capitalize;
   background: transparent;
