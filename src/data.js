@@ -15,7 +15,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/lyingleg2.jpg',
       vid: 'https://www.youtube.com/embed/l4kQd9eWclE',
-      desc: `1.First lie down on your back. \n2. Raise your legs up until your legs are at a 90 degree angle. \n3. From here lower your legs but don't touch the ground.\n4. Do this exercise for a number of times (approximately 12 reps).`,
+      desc: `1. First lie down on your back. \n2. Raise your legs up until your legs are at a 90 degree angle. \n3. From here lower your legs but don't touch the ground.\n4. Do this exercise for a number of times (approximately 12 reps).`,
     },
     {
       id: 3,

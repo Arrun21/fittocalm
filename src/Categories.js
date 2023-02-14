@@ -1,27 +1,27 @@
 import React from 'react';
 
-const Categories = ({filterItems}) => {
+const Categories = ({filterExercise}) => {
 
-  return <div className='btn-container'>
-    <button className='filter-btn' onClick={()=> filterItems('all')}> 
+  return <div className='buttonStyle'>
+    <button className='exerciseButton' onClick={()=> filterExercise('all')}> 
     all
     </button>
-    <button className='filter-btn' onClick={()=> filterItems('bodyweight')}> 
+    <button className='exerciseButton' onClick={()=> filterExercise('bodyweight')}> 
     bodyweight
     </button>
-    <button className='filter-btn' onClick={()=> filterItems('chest')}> 
+    <button className='exerciseButton' onClick={()=> filterExercise('chest')}> 
     chest
     </button>
-    <button className='filter-btn' onClick={()=> filterItems('back')}> 
+    <button className='exerciseButton' onClick={()=> filterExercise('back')}> 
     back
     </button>
-    <button className='filter-btn' onClick={()=> filterItems('biceps')}> 
+    <button className='exerciseButton' onClick={()=> filterExercise('biceps')}> 
     biceps
     </button>
-    <button className='filter-btn' onClick={()=> filterItems('tricep')}> 
+    <button className='exerciseButton' onClick={()=> filterExercise('tricep')}> 
     triceps
     </button>
-    <button className='filter-btn' onClick={()=> filterItems('legs')}> 
+    <button className='exerciseButton' onClick={()=> filterExercise('legs')}> 
     legs
     </button>
   </div>;

@@ -10,24 +10,23 @@ function App() {
   const [exerciseItems, setExerciseItems] = useState(items);
   
 
-  const filterItems = (category) => {
+  const filterExercise = (category) => {
     if(category === 'all'){
       setExerciseItems(items)
       return;
     }
-    const newItems = items.filter((item)=> item.category === category)
-    setExerciseItems(newItems)
+    const exerciseItem = items.filter((item)=> item.category === category)
+    setExerciseItems(exerciseItem)
   }
 
   return <main>
     <section className='exercise section'>
-    <div className='title'>
+    <div className='headingname'>
     <img id='logo' src='./images/Healthylogo.png'  alt="logo image" />
       <p className='welcometext'>Welcome to Fit To Calm, choose from a wide range of exercises to help better yourself, improving your mental wellbeing and health!</p>
-      <h2>exercises</h2>
-      <div className='underline'></div>
+      <h2>Exercises</h2>
     </div>
-    <Categories filterItems={filterItems}/>
+    <Categories filterExercise={filterExercise}/>
     <Exercise items={exerciseItems}/>
     </section>
     </main>;
