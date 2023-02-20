@@ -6,7 +6,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/situp.jpg',
       vid: 'https://www.youtube.com/embed/jDwoBqPH0jk',
-      desc: `1. First lie down on your back. Place your hands behind your hand.\n2. Lift up your upper body till your head is facing your knees. Should feel some tension on your core.\n3. From here you should bring your back all the back till you reach the floor.\n4. Keep doing this exercise as long as possible (best to do for 12 times). `,
+      desc: `1. First lie down on your back. Place your hands behind your hand.\n2. Lift up your upper body till your head is facing your knees. Should feel some tension on your core.\n3. From here you should bring your back all the back till you reach the floor.\n4. Keep doing this exercise as long as possible (best to do for 12 times). You can do it, keep going just one more!!! `,
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ const exercise = [
       experience: 'beginner',
       img: './images/lyingleg2.jpg',
       vid: 'https://www.youtube.com/embed/l4kQd9eWclE',
-      desc: `1. First lie down on your back. \n2. Raise your legs up until your legs are at a 90 degree angle. \n3. From here lower your legs but don't touch the ground.\n4. Do this exercise for a number of times (approximately 12 reps).`,
+      desc: `1. First lie down on your back. \n2. Raise your legs up until your legs are at a 90 degree angle. \n3. From here lower your legs but don't touch the ground.\n4. Do this exercise for a number of times (approximately 12 reps). Keep going one more, you can do it!!!`,
     },
     {
       id: 3,
