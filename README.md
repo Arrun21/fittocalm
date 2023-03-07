@@ -8,13 +8,13 @@ https://fittocalm.herokuapp.com/
 
 ## Available Scripts
 
-After downloading the zip file.
-Open the file in visual studio code.
+After downloading the zip file.\
+Open the file in visual studio code.\
 Then in visual studio code on the terminal enter:
 
 ### `npm install`
 
-To install all the neccessary files.
+To install all the neccessary files.\
 In the project directory, you can run:
 
 ### `npm start`
